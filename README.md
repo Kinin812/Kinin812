@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kinin812
 - 👀 I'm interesting in everything related to the development of programming skills
-- 🌱 I’m currently learning python backend in Yandex.Prakticum
 - 💞️ I’m looking to collaborate on a project of my level
 - 📫 How to reach me: kinin@mail.ru
 
