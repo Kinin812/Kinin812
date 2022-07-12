@@ -24,7 +24,7 @@
     		<img src="https://img.shields.io/static/v1?label=HeadHunter&message=.RU&color=critical&style=for-the-badge" alt="HeadHunter Badge"/>
   	</a>
 	<a href="https://career.habr.com/kkalmykov" target="_blank">
-    		<img src="https://img.shields.io/static/v1?label=HeadHunter&message=.RU&color=critical&style=for-the-badge" alt="HeadHunter Badge"/>
+    		<img src="https://img.shields.io/static/v1?label=HUBR&message=Career&color=lightgrey&style=for-the-badge" alt="HeadHunter Badge"/>
   	</a>
 </div>
 
