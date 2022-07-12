@@ -10,7 +10,7 @@
 					<li>👋 Hi, I’m @Kinin812</li>
 					<li>👀 I'm interesting in everything related to the development of programming skills</li>
           <li>💞️ I’m looking to collaborate on a project of my level</li>
-          <li>📫 How to reach me: kinin@mail.ru</li>
+          <li>📫 How to reach me: <a href="mailto:kinin@mail.ru">kinin@mail.ru</a></li>
 				</ul>
 			</td>
 		</tr>
