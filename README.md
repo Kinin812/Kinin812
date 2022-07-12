@@ -23,6 +23,9 @@
 	<a href="https://spb.hh.ru/applicant/resumes/view?resume=c2a3162bff086efe820039ed1f4c4875576263" target="_blank">
     		<img src="https://img.shields.io/static/v1?label=HeadHunter&message=.RU&color=critical&style=for-the-badge" alt="HeadHunter Badge"/>
   	</a>
+	<a href="https://career.habr.com/kkalmykov" target="_blank">
+    		<img src="https://img.shields.io/static/v1?label=HeadHunter&message=.RU&color=critical&style=for-the-badge" alt="HeadHunter Badge"/>
+  	</a>
 </div>
 
 <!---
