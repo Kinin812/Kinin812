@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 	<a href="https://spb.hh.ru/applicant/resumes/view?resume=c2a3162bff086efe820039ed1f4c4875576263" target="_blank">
-    		<img src="https://img.shields.io/static/v1?label=HeadHunter&message=.RU&color=red" alt="LinkedIn Badge" alt="HeadHunter Badge"/>
+    		<img src="https://img.shields.io/static/v1?label=HeadHunter&message=.RU&color=red &style=for-the-badge" alt="HeadHunter Badge"/>
   	</a>
 </div>
 
